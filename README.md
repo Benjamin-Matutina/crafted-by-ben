@@ -16,5 +16,5 @@ This was a general project that did not require data cleaning, it was used to sh
 ## Project 
 ![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%201.JPG)
 
-### Filtered Version of Project
+### Filtered For Q1 Version of Project
 ![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%202.JPG)
