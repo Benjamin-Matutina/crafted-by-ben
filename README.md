@@ -15,4 +15,5 @@ Sum of Customers by Month
 ## Project 
 ![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%201.JPG)
 
+### Filtered Version of Project
 ![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%202.JPG)
