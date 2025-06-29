@@ -6,9 +6,9 @@
 This was a general project that did not require data cleaning, it was used to showcase my ability to create dashboards
 
 ## Questions Answered :question:
-Regional Profit
-Sales vs Target Sales of XYZ Company
-Sum of Customers by Month
+1. Regional Profit
+2. Sales vs Target Sales of XYZ Company
+3. Sum of Customers by Month
 
 ## Project Link
 **📂 [Project Dashboard](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Excel%20Project%20Dashboard.xlsx)**
