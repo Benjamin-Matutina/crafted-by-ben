@@ -11,3 +11,5 @@ Sum of Customers by Month
 
 ## Project 
 <a href="https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Excel%20Project%20Dashboard.xlsx">Project</a>
+![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%201.JPG)
+![Dashboard Screenshot]((https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%202.JPG))
