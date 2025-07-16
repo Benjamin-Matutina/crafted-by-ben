@@ -29,7 +29,7 @@ This was a general project that I made for friends to track their Financial Prog
 3. Displaying Data on Google Sheets
 
 ## Project Link
-**📂 [Project Dashboard](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Financial%20DashBoard%20_%20By%20Benjuh.xlsx)**
+**📂 [Financial Sheet](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Financial%20DashBoard%20_%20By%20Benjuh.xlsx)**
 
 ## Metrics Table
 ![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Metrics.JPG)
