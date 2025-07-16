@@ -32,7 +32,7 @@ This was a general project that I made for friends to track their Financial Prog
 **📂 [Project Dashboard](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Excel%20Project%20Dashboard.xlsx)**
 
 ## Project 
-![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%201.JPG)
+![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Metrics.JPG)
 
 ### Filtered For Q1 Version of Project
-![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%202.JPG)
+![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard.JPG)
