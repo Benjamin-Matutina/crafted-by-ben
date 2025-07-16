@@ -31,8 +31,8 @@ This was a general project that I made for friends to track their Financial Prog
 ## Project Link
 **📂 [Project Dashboard](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Excel%20Project%20Dashboard.xlsx)**
 
-## Project 
+## Metrics Table
 ![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Metrics.JPG)
 
-### Filtered For Q1 Version of Project
+### Main Dashboard
 ![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard.JPG)
