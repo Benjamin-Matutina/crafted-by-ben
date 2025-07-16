@@ -19,7 +19,7 @@ This was a general project that did not require data cleaning, it was used to sh
 ### Filtered For Q1 Version of Project
 ![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%202.JPG)
 
-# Project 1: Financial Board Calculator
+# Project 2: Financial Board Calculator
 ## Objective :pushpin:
 This was a general project that I made for friends to track their Financial Progress
 
