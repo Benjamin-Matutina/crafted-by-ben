@@ -18,3 +18,21 @@ This was a general project that did not require data cleaning, it was used to sh
 
 ### Filtered For Q1 Version of Project
 ![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%202.JPG)
+
+# Project 1: Financial Board Calculator
+## Objective :pushpin:
+This was a general project that I made for friends to track their Financial Progress
+
+## Questions Answered :question:
+1. Monthly Payments
+2. Displaying Payments based on Date recency 
+3. Displaying Data on Google Sheets
+
+## Project Link
+**📂 [Project Dashboard](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Excel%20Project%20Dashboard.xlsx)**
+
+## Project 
+![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%201.JPG)
+
+### Filtered For Q1 Version of Project
+![Dashboard Screenshot](https://github.com/Benjamin-Matutina/crafted-by-ben/blob/main/Dashboard%202.JPG)
